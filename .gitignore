@@ -1,0 +1,34 @@
+target
+logs
+
+# eclipse
+.classpath
+.project
+.settings
+
+# idea
+.idea
+*.iml
+*.ipr
+*.iws
+
+.DS_Store
+*log
+*.gz
+
+# OS X
+.DS_Store
+
+# log
+*.log
+log.*
+log
+**/build/*
+**/dist/*
+**/node_modules/*
+.tmp
+app.js
+**/names.js
+**/list.js
+**/server/*
+**/images/*
